@@ -1,0 +1,27 @@
+general protection fault in corrupted
+INFO: rcu detected stall in __cond_resched
+INFO: rcu detected stall in __do_softirq
+INFO: rcu detected stall in __do_sys_perf_event_open
+INFO: rcu detected stall in addrconf_rs_timer
+INFO: rcu detected stall in blk_complete_reqs
+INFO: rcu detected stall in delayed_put_pid
+INFO: rcu detected stall in ip_list_rcv
+INFO: rcu detected stall in kmemleak_scan_thread
+INFO: rcu detected stall in net_rx_action
+INFO: rcu detected stall in note_gp_changes
+INFO: rcu detected stall in swake_up_one
+lost connection to test machine
+memory leak in __kernfs_new_node
+memory leak in __lookup_hash
+memory leak in __lookup_slow
+memory leak in __x64_sys_timerfd_create
+memory leak in copy_process
+memory leak in do_epoll_ctl
+memory leak in do_seccomp
+memory leak in inotify_update_watch
+memory leak in new_inode_pseudo
+memory leak in path_openat
+memory leak in prepare_creds
+memory leak in unix_create1
+no output from test machine
+WARNING: The mand mount option has been deprecated and

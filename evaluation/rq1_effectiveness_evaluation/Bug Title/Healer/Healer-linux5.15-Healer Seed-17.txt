@@ -1,0 +1,16 @@
+INFO: rcu detected stall in addrconf_rs_timer
+INFO: rcu detected stall in blk_rq_timed_out_timer
+INFO: rcu detected stall in commit_timeout
+INFO: rcu detected stall in dev_watchdog
+INFO: rcu detected stall in __do_softirq
+INFO: rcu detected stall in fib6_run_gc
+INFO: rcu detected stall in note_gp_changes
+INFO: rcu detected stall in perf_event_open
+INFO: rcu detected stall in queue_work_on
+INFO: rcu detected stall in rebalance_domains
+INFO: rcu detected stall in run_timer_softirq
+INFO: rcu detected stall in schedule
+INFO: rcu detected stall in smp_call_function
+INFO: rcu detected stall in stack_trace_save
+INFO: rcu detected stall in tcp_delack_timer
+INFO: rcu detected stall in try_to_wake_up

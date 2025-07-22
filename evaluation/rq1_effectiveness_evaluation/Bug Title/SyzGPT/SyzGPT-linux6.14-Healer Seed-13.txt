@@ -1,0 +1,12 @@
+BUG: MAX_LOCKDEP_KEYS too low!
+INFO: task hung in addrconf_dad_work
+INFO: task hung in addrconf_verify_work
+INFO: task hung in blkdev_fallocate
+INFO: task hung in netfs_retry_writes
+INFO: task hung in netfs_writepages
+INFO: task hung in uevent_show
+KASAN: stack-out-of-bounds Read in profile_pc
+KASAN: use-after-free Read in ext4_xattr_set_entry
+no output from test machine
+possible deadlock in smc_switch_to_fallback
+possible deadlock in sockopt_lock_sock

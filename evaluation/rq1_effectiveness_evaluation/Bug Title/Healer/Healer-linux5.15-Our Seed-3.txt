@@ -1,0 +1,3 @@
+KASAN: stack-out-of-bounds Read in profile_pc
+kernel panic: panic_on_warn set
+WARNING in scsi_alloc_sgtables

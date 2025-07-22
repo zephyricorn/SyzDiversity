@@ -1,0 +1,30 @@
+BUG: MAX_LOCKDEP_KEYS too low!
+BUG: unable to handle kernel NULL pointer dereference in filemap_read_folio
+INFO: rcu detected stall in smp_call_function
+INFO: task hung in blkdev_fallocate
+INFO: task hung in _free_event
+INFO: task hung in rfkill_global_led_trigger_worker
+INFO: task hung in rfkill_unregister
+INFO: task hung in rtnl_newlink
+INFO: task hung in tun_chr_close
+INFO: task hung in uevent_show
+INFO: trying to register non-static key in cfg80211_dev_free
+lost connection to test machine
+possible deadlock in nr_rt_device_down
+possible deadlock in smc_vlan_by_tcpsk
+suppressed report
+SYZFAIL: both fault injection and rerun are enabled for the same call
+SYZFAIL: initialize_wifi_devices: failed set up IBSS network
+SYZFATAL: executor NUM failed NUM times: executor NUM: exit status NUM err exit status NUM
+SYZFATAL: executor NUM failed NUM times: executor NUM: exit status NUM err signal: killed
+SYZFATAL: executor NUM failed NUM times: executor NUM: failed to write control pipe: write |NUM: broken pipe
+SYZFATAL: Manager.Poll call failed: reading body read tcp IP:NUM->IP:NUM: i/o timeout
+VFS: Busy inodes after unmount (use-after-free)
+WARNING in btrfs_finish_one_ordered
+WARNING in __btrfs_free_extent
+WARNING in btrfs_space_info_update_bytes_may_use
+WARNING in ida_free
+WARNING in media_create_pad_link
+WARNING in __rate_control_send_low
+WARNING in vkms_get_vblank_timestamp
+WARNING: lock held when returning to user space in ext4_setattr

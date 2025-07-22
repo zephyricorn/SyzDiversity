@@ -1,0 +1,3 @@
+INFO: task hung in _free_event
+INFO: trying to register non-static key in cfg80211_dev_free
+WARNING in get_pat_info

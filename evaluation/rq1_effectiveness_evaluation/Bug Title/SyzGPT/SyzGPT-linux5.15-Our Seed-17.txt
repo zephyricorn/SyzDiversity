@@ -1,0 +1,17 @@
+INFO: rcu detected stall in __do_softirq
+INFO: task hung in _free_event
+KASAN: stack-out-of-bounds Read in profile_pc
+memory leak in copy_process
+memory leak in do_ipv6_setsockopt
+memory leak in do_seccomp
+memory leak in do_signalfd4
+memory leak in ipv6_renew_options
+memory leak in new_inode_pseudo
+memory leak in p9pdu_readf
+memory leak in path_openat
+memory leak in prepare_creds
+memory leak in sys_timerfd_create
+no output from test machine
+suppressed report
+SYZFATAL: executor NUM failed NUM times: executor NUM: exit status NUM err exit status NUM
+SYZFATAL: executor NUM failed NUM times: executor NUM: failed to write control pipe: write |NUM: broken pipe

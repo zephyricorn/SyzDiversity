@@ -1,0 +1,45 @@
+can't ssh into the instance
+general protection fault in corrupted
+general protection fault in scsi_queue_rq
+INFO: rcu detected stall in __do_softirq
+INFO: rcu detected stall in blk_complete_reqs
+INFO: rcu detected stall in call_timer_fn
+INFO: rcu detected stall in corrupted
+INFO: rcu detected stall in dev_watchdog
+INFO: rcu detected stall in dst_destroy
+INFO: rcu detected stall in ip_list_rcv
+INFO: rcu detected stall in net_rx_action
+INFO: rcu detected stall in perf_event_open
+INFO: rcu detected stall in perf_ioctl
+INFO: rcu detected stall in rebalance_domains
+INFO: rcu detected stall in run_timer_softirq
+INFO: rcu detected stall in smp_call_function
+INFO: rcu detected stall in try_to_wake_up
+INFO: rcu detected stall in syscall_exit_to_user_mode
+INFO: rcu detected stall in tc_modify_qdisc 
+INFO: rcu detected stall in worker_thread
+INFO: task hung in addrconf_dad_work
+INFO: task hung in addrconf_verify_work
+INFO: task hung in bch2_copygc_stop
+INFO: task hung in cfg80211_event_work
+INFO: task hung in do_coredump
+INFO: task hung in do_ipt_get_ctl
+KASAN: stack-out-of-bounds in profile_pc
+KASAN: stack-out-of-bounds Read in profile_pc
+kernel BUG in corrupted
+kernel BUG in ext4_da_get_block_prep
+kernel BUG in ext4_mb_find_by_goal
+kernel BUG in ext4_mb_load_buddy_gfp
+no output from test machine
+suppressed report
+SYZFAIL: failed to mkdir
+SYZFAIL: mmap of data segment failed
+SYZFAIL: mount(debug) failed
+WARNING in cleanup_group_ids
+WARNING in corrupted
+WARNING in isolate_lru_page
+WARNING in scsi_alloc_sgtables
+WARNING in submit_bio_checks
+WARNING: zero-size vmalloc in corrupted
+WARNING: zero-size vmalloc in sel_write_load
+WARNING: zero-size vmalloc in syz

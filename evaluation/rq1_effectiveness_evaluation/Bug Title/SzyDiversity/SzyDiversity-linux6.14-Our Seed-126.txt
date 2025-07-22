@@ -1,0 +1,126 @@
+BUG: Bad rss-counter state
+BUG: corrupted list in do_compact_page
+BUG: soft lockup in smp_call_function
+BUG: unable to handle kernel NULL pointer dereference in __put_partials
+BUG: corrupted list in xlog_cil_commit
+BUG: spinlock bad magic in btrfs_stop_all_workers
+BUG: spinlock bad magic in lock_timer_base
+can't ssh into the instance
+general protection fault in __fib6_drop_pcpu_from
+general protection fault in bnep_session
+general protection fault in device_move
+general protection fault in dst_dev_put
+general protection fault in __inode_security_revalidate
+general protection fault in __mod_memcg_lruvec_state
+general protection fault in __netif_napi_del_locked
+general protection fault in alloc_bulk 
+general protection fault in detach_if_pending 
+general protection fault in ip6_pol_route
+general protection fault in put_pwq_unlocked
+general protection fault in ip6_pol_route
+general protection fault in lock_sock_nested
+general protection fault in napi_disable_locked
+INFO: rcu detected stall in corrupted
+INFO: rcu detected stall in do_idle
+INFO: rcu detected stall in validate_mm
+INFO: rcu detected stall in worker_thread
+INFO: rcu detected stall in x64_sys_call
+INFO: task hung in addrconf_dad_work
+INFO: task hung in hub_event
+INFO: task hung in iterate_supers
+INFO: task hung in linkwatch_event
+INFO: task hung in netfs_retry_writes
+INFO: task hung in netfs_writepages
+INFO: task hung in nsim_destroy
+INFO: task hung in psi_cgroup_free
+INFO: task hung in rcu_pending_exit
+INFO: task hung in bch2_readahead
+INFO: task hung in do_coredump
+INFO: task hung in gfs2_jhead_process_page
+INFO: task hung in reg_check_chans_work
+INFO: task hung in rtnl_dumpit
+INFO: task hung in switchdev_deferred_process_work
+INFO: task hung in synchronize_rcu
+INFO: task hung in tun_chr_close
+INFO: task hung in uevent_show
+INFO: task hung in wg_netns_pre_exit
+INFO: trying to register non-static key in cfg80211_dev_free
+KASAN: global-out-of-bounds Read in rcu_pending_exit
+KASAN: global-out-of-bounds Read in rcu_pending_pcpu_dequeue
+KASAN: null-ptr-deref Write in dst_cache_per_cpu_get
+KASAN: slab-use-after-free Read in __ethtool_get_link_ksettings
+KASAN: slab-use-after-free Read in bt_accept_unlink
+KASAN: slab-use-after-free Read in l2cap_unregister_user
+KASAN: slab-use-after-free Read in release_metapage
+KASAN: slab-use-after-free Write in sco_conn_put
+KASAN: stack-out-of-bounds Read in profile_pc
+KASAN: use-after-free Read in poly1305_update_arch
+KASAN: vmalloc-out-of-bounds Write in vrealloc_noprof
+KASAN: wild-memory-access Read in __timer_delete_sync
+kernel BUG in hfs_write_inode
+kernel BUG in z3fold_page_migrate
+kernel BUG in btrfs_free_fs_info
+kernel BUG in dbFindLeaf
+kernel BUG in gfs2_withdraw
+kernel BUG in hfsplus_bnode_put 
+kernel BUG in jfs_evict_inode
+kernel BUG in txAbort
+kernel BUG in txUnlock
+kernel BUG in z3fold_page_migrate
+no output from test machine
+possible deadlock in __submit_bio
+possible deadlock in blk_mq_freeze_queue_nomemsave
+possible deadlock in btrfs_search_slot
+possible deadlock in do_ip_getsockopt
+possible deadlock in do_ip_setsockopt
+possible deadlock in gup_fast_fallback
+possible deadlock in hfsplus_get_block
+possible deadlock in input_inject_event
+possible deadlock in do_ipv6_setsockopt
+possible deadlock in ip_mroute_setsockopt
+possible deadlock in l2cap_conn_del
+possible deadlock in loop_set_size
+possible deadlock in pipe_lock
+possible deadlock in process_scheduled_works
+possible deadlock in seq_read_iter
+possible deadlock in set_capacity_and_notify
+possible deadlock in smc_switch_to_fallback
+possible deadlock in sockopt_lock_sock
+possible deadlock in start_sync_thread
+possible deadlock in uinput_request_submit
+possible deadlock in walk_component
+possible deadlock in xfs_ilock
+suppressed report
+SYZFAIL: ebtable checkpoint: socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)
+SYZFAIL: ebtable: socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)
+SYZFAIL: failed to mkdir
+SYZFAIL: initialize_wifi_devices: failed set up IBSS network
+SYZFAIL: ioctl(HCIDEVUP) failed
+SYZFAIL: posix_spawnp failed
+SYZFAIL: repeatedly failed to execute the program
+SYZFAIL: tun: ioctl(TUNSETIFF) failed
+unregister_netdevice: waiting for DEV to become free
+VFS: Busy inodes after unmount (use-after-free)
+WARNING in __alloc_frozen_pages_noprof
+WARNING in __ext4_iget
+WARNING in __folio_mark_dirty
+WARNING in __ieee80211_beacon_update_cntdwn
+WARNING in __srcu_check_read_flavor
+WARNING in btrfs_create_new_inode
+WARNING in btrfs_space_info_update_bytes_may_use
+WARNING in call_timer_fn
+WARNING in cm109_urb_irq_callback/usb_submit_urb
+WARNING in enable_work
+WARNING in get_pat_info
+WARNING in ieee80211_rx_list
+WARNING in inet_sock_destruct
+WARNING in kernfs_remove_by_name_ns
+WARNING in kvm_put_kvm
+WARNING in l2cap_chan_del
+WARNING in rcu_check_gp_start_stall
+WARNING in sched_mm_cid_remote_clear
+WARNING in try_check_zero
+WARNING in vma_merge_existing_range
+WARNING: locking bug in kvm_xen_set_evtchn_fast
+WARNING: locking bug in rcu_pending_exit
+WARNING: refcount bug in device_move
